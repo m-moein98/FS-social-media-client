@@ -4,6 +4,7 @@
 *~
 *.sw[mnpcod]
 .tmp
+*.xml
 *.tmp
 *.tmp.*
 *.sublime-project
@@ -30,3 +31,4 @@ npm-debug.log*
 /platforms
 /plugins
 /www
+/resources
